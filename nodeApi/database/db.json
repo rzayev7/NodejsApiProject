@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "rzaevsahib@gmail.com",
+      "fullname": "Sahib Rzayev",
+      "username": "rzayev7",
+      "password": "123456789"
+    },
+    {
+      "id": "2",
+      "email": "rzaevsahib@gmail.com",
+      "fullname": "Sahib Rzayev",
+      "username": "rzayev7",
+      "password": "123456789"
+    },
+    {
+      "id": "3",
+      "email": "rzaevsahib@gmail.com",
+      "fullname": "Sahib Rzayev",
+      "username": "rzayev7",
+      "password": "123456789"
+    },
+    {
+      "id": "4",
+      "email": "rzaevsahib@gmail.com",
+      "fullname": "Sahib Rzayev",
+      "username": "rzayev7",
+      "password": "123456789"
+    },
+    {
+      "id": "5",
+      "email": "aziz@gmail.com",
+      "fullname": "Aziz Zeynalli",
+      "username": "azzzaa",
+      "password": "fdefew2341"
+    }
+  ]
+}
